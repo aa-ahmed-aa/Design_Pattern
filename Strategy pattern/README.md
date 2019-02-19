@@ -11,8 +11,10 @@ we have a punch of ducks (MallardDuck, rubberduck ,...etc) and we want to write 
 - share common features between animals.
 
 ### Now pattern talks
-Get your coffee and follow up.....
 
+#### UML Diagram
+![Strategy patter](http://blog.lukaszewski.it/wp-content/uploads/2013/01/strategy-1024x520.png)
+#### Folder Structure
 read the following folder structure and then have a look on the code
 ```
 ├───Behaviors   ------   (holds the Main behaviors and sub behavior)
