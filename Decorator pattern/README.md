@@ -20,7 +20,7 @@ we want to maintain this program :).
 
 ### In the future (we want)
 - add other items to the menu.
-- add another factor to calculate the price size for example(large , medium, small).
+- add another factor to calculate the price (size for example large , medium, small).
 
 ### Now pattern talks
 
