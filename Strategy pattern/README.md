@@ -1,4 +1,4 @@
-## Strategy Pattern
+# Strategy Pattern
 Defines a family of algorithms ,encapsulates each one and makes them interchangable. strategy lets the algorithm vary independently
 
 ### Problem
