@@ -8,3 +8,4 @@ Run `composer install` to generate the psr-4 autoloader.
 +   [Strategy pattern](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Strategy%20pattern).
 +   [Observer Pattern (Keeping your objects in the know)](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Observer%20pattern).
 +   [Decorator Pattern (Decorating Objects)](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Decorator%20pattern).
++   [Factory Pattern (Backing with oo Goodness)](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Factory%20pattern).
