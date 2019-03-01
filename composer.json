@@ -4,7 +4,8 @@
       "Strategy\\" : "Strategy pattern/",
       "ObserverPattern\\" : "Observer pattern/",
       "Decorator\\" : "Decorator pattern/",
-      "Factory\\" : "Factory pattern/"
+      "Factory\\" : "Factory pattern/",
+      "Singleton\\" : "Singleton pattern/"
     }
   }
 }
