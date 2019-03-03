@@ -6,7 +6,8 @@
       "Decorator\\" : "Decorator pattern/",
       "Factory\\" : "Factory pattern/",
       "Singleton\\" : "Singleton pattern/",
-      "Command\\" : "Command pattern/"
+      "Command\\" : "Command pattern/",
+      "Adapter\\" : "Adapter pattern/"
     }
   }
 }
