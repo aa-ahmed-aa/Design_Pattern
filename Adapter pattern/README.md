@@ -14,42 +14,16 @@ We have ducks and turkeys every one can fly but not every one make the same soun
 #### Folder Structure
 read the following folder structure and then have a look on the code
 ```
-├───Commands                           (holds the commands categorized by the device type)
-│   ├───CeilingFan
-│   │       CeilingFanHighCommand.php
-│   │       CeilingFanLowCommand.php
-│   │       CeilingFanMediumCommand.php
-│   │       CeilingFanOffCommand.php
-│   │
-│   ├───GarageDoor
-│   │       GarageDoorClose.php
-│   │       GarageDoorOpen.php
-│   │
-│   ├───Hottub
-│   │       HottubOff.php
-│   │       HottubOn.php
-│   │
-│   ├───Light
-│   │       LightOffCommand.php
-│   │       LightOnCommand.php
-│   │
-│   └───Stereo
-│           StereoOffCommand.php
-│           StereoOnCommand.php
+├───Adapters                  (holds the application addapter)
+│       TurkeyAdapter.php
 │
-├───Entities                          (holds the main functions of every device)
-│       CeilingFan.php
-│       GarageDoor.php
-│       Hottub.php
-│       Light.php
-│       Stereo.php
+├───Entities                  (animals ( classes ) we will use on the adapter)
+│       MallardDuck.php
+│       WildTurkey.php
 │
-├───Interfaces                        (app interfaces)
-│       Command.php
-│       NoCommand.php
-│
-└───Invocations                       (the invocations for our commands)
-        RemoteControl.php
+└───Interfaces                (interfaces for our application)
+        Duck.php
+        Turkey.php
 
 ```
 
