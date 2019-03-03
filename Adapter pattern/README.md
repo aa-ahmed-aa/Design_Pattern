@@ -1,5 +1,8 @@
 # Adapter Pattern
 Convert the interface of a class into another interface clients expect.let's classes work together that couldn't otherwise because of incompatible interfaces.
+##### two adapter types 
+- Class adapter : depends on multiple inheritance that the adapter will inherit the target class and adaptee class.
+- Object adapter : depends on composition that the adapter will be composed of the adaptee objects provides more flexibility.
 
 ### Problem
 We have ducks and turkeys every one can fly but not every one make the same sound ducks duck and turkey's gobble so we need an adapter to can gobble and fly the same way as ducks do
