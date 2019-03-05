@@ -9,7 +9,8 @@
       "Command\\" : "Command pattern/",
       "Adapter\\" : "Adapter pattern/",
       "Facade\\" : "Facade pattern/",
-      "TemplateMethod\\" : "Template Method pattern/"
+      "TemplateMethod\\" : "Template Method pattern/",
+      "Iterator\\" : "Iterator pattern/"
     }
   }
 }
