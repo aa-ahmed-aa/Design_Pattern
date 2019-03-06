@@ -2,7 +2,7 @@
 Compose objects into tree structured to request part whole hierarchies, Composite let's clients treat individual objects and compositions of objects uniformly.
 
 ### Problem
-We have restaurant that have many menus on for Breakfast, Dinner and Lunch and there is also a dessert menu and we need to maintain this program so we can have access to add items to submenus and make menus submenu of other menu( Menu Composition :D ).
+We have restaurant that have many menus one for Breakfast, Dinner and Lunch and there is also a dessert menu and we need to maintain this program so we can have access to add items to submenus and make menus submenu of other menu( Menu Composition :D ).
 
 ### In the future (we want)
 - add more menus.
