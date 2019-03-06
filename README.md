@@ -15,3 +15,4 @@ Run `composer install` to generate the psr-4 autoloader.
 +   [Facade Pattern](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Facade%20pattern).
 +   [Template Method Pattern (Encapsulating Algorithms)](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Template%20Method%20pattern).
 +   [Iterator Pattern](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Iterator%20pattern).
++   [Composite Pattern](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Composite%20pattern).
