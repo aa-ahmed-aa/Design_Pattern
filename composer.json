@@ -10,7 +10,8 @@
       "Adapter\\" : "Adapter pattern/",
       "Facade\\" : "Facade pattern/",
       "TemplateMethod\\" : "Template Method pattern/",
-      "Iterator\\" : "Iterator pattern/"
+      "Iterator\\" : "Iterator pattern/",
+      "Composite\\" : "Composite pattern/"
     }
   }
 }
