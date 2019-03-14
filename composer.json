@@ -11,7 +11,9 @@
       "Facade\\" : "Facade pattern/",
       "TemplateMethod\\" : "Template Method pattern/",
       "Iterator\\" : "Iterator pattern/",
-      "Composite\\" : "Composite pattern/"
+      "Composite\\" : "Composite pattern/",
+      "Proxy\\": "Proxy pattern/",
+      "State\\" : "State pattern/"
     }
   }
 }
