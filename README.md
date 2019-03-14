@@ -1,5 +1,5 @@
 # Design_Pattern
-Php code for [Head First Design Pattern](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124) with the power of namespaces.
+Php code for [Head First Design Pattern](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124) with the power of namespaces also this repo is open for any other patterns in the future.
 
 ## Usage
 Run `composer install` to generate the psr-4 autoloader.
@@ -16,3 +16,5 @@ Run `composer install` to generate the psr-4 autoloader.
 +   [Template Method Pattern (Encapsulating Algorithms)](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Template%20Method%20pattern).
 +   [Iterator Pattern](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Iterator%20pattern).
 +   [Composite Pattern](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Composite%20pattern).
++   [Proxy Pattern](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Proxy%20pattern).
++   [State Pattern](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/State%20pattern).
